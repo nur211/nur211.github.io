@@ -1,64 +1,28 @@
-# project include: u of t web dev workshop
+# [Start Bootstrap](http://startbootstrap.com/) - [Business Casual](http://startbootstrap.com/template-overviews/business-casual/)
 
-<img src="http://bit.ly/29XrNQE" align="right" />
+[Business Casual](http://startbootstrap.com/template-overviews/business-casual/) is a multipurpose website theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a landing page, about page, blog page, and a contact page along with various custom styles and components.
 
-## About
-Project Include is an initiative that is part of the Engineering Society at the University of Toronto. We are hosting workshops throughout Toronto to teach people how to program.
+## Getting Started
 
-In this bootcamp, we hope to introduce you to web development through html, css and .
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/)
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-business-casual.git`
+* Fork the repo
+* Your must enter your database information and your email in form-handler.php - if you don't have a database, that's fine.  Edit contact.html to direct the form to form-handler-nodb.php and emails will be sent with no database writes.
 
-## Syllabus
-    10:30 - 11:00 : Registration
-    11:00 - 13:20 : html and css lessons
+## Bugs and Issues
 
-    13:20 - 13:50 : Lunch - Pizza!
-    13:50 - 16:00 : Second half of workshops
-    16:00 - 16:30 : Leftover pizza and socializing!
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-business-casual/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/business-casual/).
 
-## Course Materials
-- [Introductory slides] (https://slides.com/mreiter/deck-1/live)
-- [Feedback forms] (https://docs.google.com/forms/d/1Qyg_MFL-Q81gDVC2DGyp6U_VAjysNAFVNi3EhSSh1kA/viewform?edit_requested=true)
-- [Twitch Live Stream] (https://www.twitch.tv/umarahmed322)
+## Creator
 
-## Getting started
-- Make sure you have an account on Github.
-- Fork this repository.
-- Clone the forked repository
-- Happy Coding!
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-## Git commands
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-### Clone
-To clone a repository, open your console and navigate to a desired path. Use the following command:
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-   	git clone https://github.com/<repository_path_name>.git
+## Copyright and License
 
-### Push
-Once you are happy with the changes that you made to your code, PUSH the changes to Github.
-
-Open your console and navigate to the path that contains your github repository. While in this repository, type each of the following commands:
-
-      git add --all
-      git commit -m "brief message summarizing reasons for push"
-      git push origin master
-
-### Pull
-Whenever you want to receive an up-to-date copy of the repository, use git pull:
-
-Open your console and navigate to the path that contains your github repository. While in this repository, type each of the following command:
-
-	git pull
-
-## Links & Resources
-- Click [here] (https://atom.io/) to download Atom
-- Follow the tutorial [here] (https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) to install git.
-- Useful information pertaining to [Github Pages](https://pages.github.com/)
-- [HTML Online Documentation](http://www.w3schools.com/html/default.asp)
-- [CSS Online Documentation](http://www.w3schools.com/cssref/)
-- Click [here](http://getbootstrap.com/) to download Bootstrap
-- [Bootstrap Documentation](http://www.w3schools.com/bootstrap/bootstrap_get_started.asp)
-
-## Contact Information
-- Matthew Reiter: mail@matthewreiter.me
-- Will Ginsberg: will.j.ginsberg@gmail.com
-- Dexter Rivera: dexter.rivera@mail.utoronto.ca
+Copyright 2013-2016 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-business-casual/blob/gh-pages/LICENSE) license.
