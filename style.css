@@ -1,0 +1,20 @@
+h1 {
+
+  text-transform:uppercase;
+  color: #ffb366;
+}
+li {
+  font-size: 20px;
+  font-family: "Calibri"
+}
+
+
+#What-do-I-like {
+  color: red;
+}
+#What-are-cool{
+  color: blue;
+}
+.What-are-mammals {
+  color: purple;
+}
